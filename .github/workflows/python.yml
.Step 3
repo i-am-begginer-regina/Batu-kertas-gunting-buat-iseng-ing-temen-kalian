@@ -15,4 +15,4 @@ jobs:
           python-version: '3.12'
 
       - name: Run Python
-        run: tastungting.py
+        run: python tastungting.py
